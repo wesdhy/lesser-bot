@@ -622,17 +622,12 @@ async def on_message(message):
         
       
 
-        
-        #if time2 < times:
-        #    await message.channel.send('상병진급 '+str((times-time2).days) + '일 남음')
-        #elif  time2 < timeb:
-        #   await message.channel.send('병장진급 '+str((timeb-time2).days) + '일 남음')
-       
+
          
 
 
        
 
-client.run('NjgwNDM1NTYxOTE1NDgyMzI0.Xk_3gA.JnQ2VEwkQdZmh4Gb4rY2PwTJ8Do')
+client.run('')
 
 
