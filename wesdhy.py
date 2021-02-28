@@ -32,7 +32,7 @@ async def clear(ctx, amount=1):
 time.sleep(10)
     
     
-client.run('NjgwNDM1NTYxOTE1NDgyMzI0.Xk_3gA.JnQ2VEwkQdZmh4Gb4rY2PwTJ8Do')
+client.run('')
 
 
 
