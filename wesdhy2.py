@@ -242,24 +242,7 @@ async def on_message(message):
           
 
     
-    if message.content.startswith("섹스"):
-         
-         
-         
-         if (i==1):
-          await message.channel.send("봉지")
-          
-         
-         elif(i<=2):
-          await message.channel.send("쥬지")
-
-         elif(i<=6):
-          await message.channel.send("봉지")
-          
-
-         
-         else:
-          await message.channel.send("인생절반손해봤어")
+  
     
        
  
@@ -330,17 +313,7 @@ async def on_message(message):
         embed.set_image(url = "https://cdn.discordapp.com/attachments/556308043231395840/722157208896274442/VRChat_1920x1080_2020-06-15_23-05-24.313.png")
         await message.channel.send(embed=embed)
 
-    if message.content.startswith("!수인"):
-       
-       
-
-        embed = discord.Embed(
-             title='꾸닝',
-             description='수인',
-             colour=discord.Colour.green()
-        )
-        embed.set_image(url = "https://cdn.discordapp.com/attachments/556308043231395840/705781668161650688/EW7iNy0UMAE0X0_.png")
-        await message.channel.send(embed=embed)
+  
 
 
 
@@ -424,7 +397,7 @@ async def on_message(message):
     if message.content.startswith("!삼성") and i<5:
   
         embed = discord.Embed(
-            title='외주디는 삼엽충임미다',
+            title='wesdhy는 삼엽충',
             description='머리 깨져도 삼성 노트북이야',
             colour=discord.Colour.dark_gold()
         )
@@ -496,7 +469,7 @@ async def on_message(message):
   
         embed = discord.Embed(
             title='이름=레서',
-            description='직업=건설 자원 봉사자',
+            description='직업=목수',
             colour=discord.Colour.green()
         )
         embed.set_image(url = "https://cdn.discordapp.com/attachments/556308043231395840/678152046347681842/VRChat_1920x1080_2018-09-15_19-20-33.985.png")
@@ -556,16 +529,7 @@ async def on_message(message):
 
 
 
-    if message.content.startswith("!완"):
-        time2 = datetime.now()
-
-        embed = discord.Embed(
-            title='타이',
-            description='완',
-            colour=discord.Colour.green()
-        )
-        embed.set_image(url = "https://cdn.discordapp.com/attachments/522132608134414347/549464375308845068/VRChat_1920x1080_2019-02-19_16-28-29.645.png")
-        await message.channel.send(embed=embed)
+  
 
     if message.content.startswith("!탑"):
         time2 = datetime.now()
